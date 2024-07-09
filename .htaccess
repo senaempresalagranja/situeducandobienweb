@@ -1,0 +1,4 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^situ\.educandobien\.com$
+RewriteRule ^/?$ "https\:\/\/situ\.educandobien\.com\/" [R=301,L]

@@ -1,0 +1,9 @@
+					 //user || password || date //
+					////////////////////////////
+
+LIDER_TALENTO || liderTalento || 03-05-2020
+SENA_EMPRESA || userSenaEmpresa || 03-05-2020
+enbo || enboyou || 03-05-2020
+SENA_EMPRESA || userSenaEmpresa || 12-05-2020
+LIDER_TALENTO || liderTalento || 12-05-2020
+enbo || enboyou || 12-05-2020
